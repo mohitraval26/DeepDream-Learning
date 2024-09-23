@@ -1,4 +1,7 @@
 # DeepDream Learning
+done by:
+Mohit Raval
+Dhruv Sompura
 
 **DeepDream Learning** uses Natural Language Processing (NLP) and Machine Learning (ML) to analyze and classify dreams based on emotional content. Input your dream, and the tool identifies emotions such as anger, joy, and fear, providing insights into your dream's emotional content. This project leverages data from DreamBank and advanced text analysis techniques to offer a deeper understanding of your subconscious mind.
 
